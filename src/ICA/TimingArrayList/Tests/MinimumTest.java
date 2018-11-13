@@ -5,7 +5,7 @@ import ICA.TimingArrayList.Test;
 import java.util.ArrayList;
 
 public class MinimumTest implements Test {
-    public String getName() { return "maximum"; }
+    public String getName() { return "Min"; }
 
     public void runTest(ArrayList<Integer> list, int count) {
         int minimumValue = Integer.MAX_VALUE;

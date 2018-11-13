@@ -17,15 +17,15 @@ public class Main {
                 new RemoveTest(),
         };
 
-        for (int i = 1; i < 100000; i=i*10) {
+        for (int i = 1; i < Integer.MAX_VALUE; i=i*10) {
             System.out.println("TEST CASE: " + i);
             ArrayList<Integer> list = new ArrayList<>();
             for (Test test : tests) {
                 System.out.println(test.getName());
-                long start = System.currentTimeMillis();
+                long start = System.nanoTime();
                 test.runTest(list, i);
-                long end = System.currentTimeMillis();
-                System.out.println("Took " +  (end-start) + " milliseconds");
+                long end = System.nanoTime();
+                System.out.println("Took " +  (end-start) + " nanoseconds");
             }
         }
     }
