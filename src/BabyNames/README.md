@@ -4,8 +4,6 @@
 
 This project was created for the "Advanced Data Structures and Algorithims A" course at the Dalton School. The assignment was to take the list of baby names at [New York City Open Data](https://data.cityofnewyork.us/Health/Popular-Baby-Names/25th-nujf) and organize it in a way that you could access any name as quickly as possible by searching for the first few letters.
 
-[toc]
-
 ## Usage
 There are serveral different ways of using this project.
 
@@ -19,7 +17,7 @@ to the correct path to your csv file. Also, change the line
 ```java
         Name[] results = tree.search("han");
 ```
-to your search term.
+to your search term. Remove any non `A`-`z` characters from the list. As of 1/28/19, there were only `'` characters that needed to be removed. Note that the `main.java` file requires the [Apache Commons CSV](https://commons.apache.org/proper/commons-csv/) library as a dependancy.
 
 ### Proof of Concept
 Run the enclosed `driver.java` file. It contains the following hardcoded data:
