@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58b333b4-99c7-4a69-a633-34b331aad0da" name="Default Changelist" comment="Add &quot;The Water of New York City&quot; and &quot;Timing Array List&quot;">
+    <list default="true" id="58b333b4-99c7-4a69-a633-34b331aad0da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/BabyNames/babynames.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BabyNames/AlphebeticalNameSearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BabyNames/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BabyNames/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BabyNames/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BabyNames/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BabyNames/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/GetAllTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS3A/ICA/TimingArrayList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS3A/ICA/TimingArrayList/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ICA/TimingArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ICA/TimingArrayList/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/GetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/GetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/MaximumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/MaximumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/MinimumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/MinimumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/RemoveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/RemoveTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,53 +24,76 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1976317061">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.19" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="DoublyLinkedListTest" value="1" />
-          <entry key="csv" value="6" />
-          <entry key="java" value="49" />
-          <entry key="md" value="7" />
+          <entry key="csv" value="7" />
+          <entry key="java" value="143" />
+          <entry key="md" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="5" />
-          <entry key="JAVA" value="49" />
-          <entry key="Markdown" value="7" />
+          <entry key="CSV" value="6" />
+          <entry key="JAVA" value="143" />
+          <entry key="Markdown" value="8" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="csv" value="1" />
-          <entry key="java" value="12591" />
-          <entry key="md" value="303" />
-          <entry key="txt" value="103" />
+          <entry key="csv" value="2" />
+          <entry key="java" value="18079" />
+          <entry key="md" value="334" />
+          <entry key="txt" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12591" />
-          <entry key="Markdown" value="303" />
-          <entry key="PLAIN_TEXT" value="104" />
+          <entry key="CSV" value="1" />
+          <entry key="JAVA" value="18079" />
+          <entry key="Markdown" value="334" />
+          <entry key="PLAIN_TEXT" value="139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -76,11 +104,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BabyNames/AlphebeticalNameSearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
+              <folding>
+                <element signature="e#3305#3306#0" expanded="true" />
+                <element signature="e#3340#3341#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/BabyNames/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+            <state relative-caret-position="480">
+              <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#1129#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BabyNames/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,110 +142,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/ReverseTest.java">
+        <entry file="file://$PROJECT_DIR$/src/BabyNames/Name.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="32">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
+                <marker date="1548706038449" expanded="true" signature="1829:2143" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/ShuffleTest.java">
+        <entry file="file://$PROJECT_DIR$/src/BabyNames/NameComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="32">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/SortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/src/BabyNames/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="32">
+                <caret line="2" column="77" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/MaximumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/MinimumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/AddTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/RemoveTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/GetTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/resources/BabyNames/babynames.csv">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -205,6 +189,16 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>'</find>
+      <find>'han</find>
+      <find>hannah</find>
+      <find>han</find>
+      <find>,han</find>
+      <find>println</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -243,7 +237,18 @@
         <option value="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/MaximumTest.java" />
         <option value="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/MinimumTest.java" />
         <option value="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/RemoveTest.java" />
+        <option value="$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/GetAllTest.java" />
         <option value="$PROJECT_DIR$/src/ICA/TimingArrayList/Main.java" />
+        <option value="$PROJECT_DIR$/src/BabyNames/AlphebeticalSearchTree.java" />
+        <option value="$PROJECT_DIR$/src/BabyNames/AlphebeticalSearchTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/BabyNames/AlphebeticalNameSearchTreeNode.java" />
+        <option value="$PROJECT_DIR$/resources/BabyNames/babynames.csv" />
+        <option value="$PROJECT_DIR$/src/BabyNames/README.md" />
+        <option value="$PROJECT_DIR$/src/BabyNames/AlphebeticalNameSearchTree.java" />
+        <option value="$PROJECT_DIR$/src/BabyNames/Main.java" />
+        <option value="$PROJECT_DIR$/src/BabyNames/NameComparator.java" />
+        <option value="$PROJECT_DIR$/src/BabyNames/Name.java" />
+        <option value="$PROJECT_DIR$/src/BabyNames/Driver.java" />
       </list>
     </option>
   </component>
@@ -263,8 +268,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,35 +278,41 @@
             <path>
               <item name="CS3A" type="b2602c69:ProjectViewProjectNode" />
               <item name="CS3A" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS3A" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS3A" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="BabyNames" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS3A" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS3A" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CS3A" type="b2602c69:ProjectViewProjectNode" />
               <item name="CS3A" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TimingArrayList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CS3A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS3A" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TimingArrayList" type="462c0819:PsiDirectoryNode" />
-              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="BabyNames" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/williambarkoff/Documents/CS3A/src/ICA/TimingArrayList/TimingArrayList.java" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/williambarkoff/Documents/CS3A/src/BabyNames/Main.java&#10;Name&#9;FILE&#9;file:///Users/williambarkoff/Documents/CS3A/src/BabyNames/Name.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542062445100" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548706349492" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -311,7 +320,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -326,6 +335,8 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/BabyNames" />
+      <recent name="$PROJECT_DIR$/resources" />
       <recent name="$PROJECT_DIR$/resources/TheWaterOfNewYorkCity" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -342,7 +353,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TheWaterOfNewYorkCity.Main" />
       <module name="CS3A" />
@@ -356,12 +367,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BabyNames.Main" />
+      <module name="CS3A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BabyNames.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ICA.TimingArrayList.Main" />
       <module name="CS3A" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ICA.TimingArrayList.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BabyNames.Main" />
+      <module name="CS3A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BabyNames.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,36 +436,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccessPointTest.calculateDistance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CS3A" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TheWaterOfNewYorkCity.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TheWaterOfNewYorkCity" />
-      <option name="MAIN_CLASS_NAME" value="TheWaterOfNewYorkCity.AccessPointTest" />
-      <option name="METHOD_NAME" value="calculateDistance" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="JUnit.AccessPointTest.accessPoint" />
       <item itemvalue="JUnit.AccessPointTest" />
-      <item itemvalue="JUnit.AccessPointTest.calculateDistance" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.AccessPointTest.accessPoint" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.AccessPointTest" />
-        <item itemvalue="JUnit.AccessPointTest.calculateDistance" />
       </list>
     </recent_temporary>
   </component>
@@ -452,6 +473,17 @@
       <workItem from="1541607742713" duration="1515000" />
       <workItem from="1541789202448" duration="2150000" />
       <workItem from="1542051347848" duration="1552000" />
+      <workItem from="1542123610166" duration="304000" />
+      <workItem from="1542126823609" duration="2448000" />
+      <workItem from="1542211890273" duration="610000" />
+      <workItem from="1545149226658" duration="2234000" />
+      <workItem from="1545235537380" duration="1936000" />
+      <workItem from="1546889885808" duration="1543000" />
+      <workItem from="1546963616178" duration="3030000" />
+      <workItem from="1547049570463" duration="8466000" />
+      <workItem from="1547131315298" duration="333000" />
+      <workItem from="1548637248311" duration="347000" />
+      <workItem from="1548704328266" duration="1402000" />
     </task>
     <task id="LOCAL-00001" summary="Add &quot;The Water of New York City&quot;">
       <created>1541790853807</created>
@@ -460,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541790853807</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updates to Timing Array List&#10;&#10;Co-authored-by: c20pc &lt;c20pc@users.noreply.github.com&gt;&#10;Co-authored-by: c20ae &lt;c20ae@users.noreply.github.com&gt;">
+      <created>1542123657212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542123657212</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -496,13 +535,23 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30997000" />
+    <option name="totallyTimeSpent" value="53650000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31501833" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49738768" visible="true" weight="0.18253969" />
+      <window_info id="Structure" order="1" sideWeight="0.50261235" side_tool="true" weight="0.32967034" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -510,11 +559,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34378266" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40520447" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4106583" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.3291536" />
@@ -534,8 +583,8 @@
       <window_info anchor="right" x="0" y="0" width="370" height="850" id="Documentation" order="11" side_tool="true" weight="0.32967034" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.31135532" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49738768" weight="0.32967034" />
+      <window_info id="Structure" order="1" sideWeight="0.50261235" side_tool="true" weight="0.32967034" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -543,14 +592,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34380952" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3425926" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39883268" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32961586" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32761905" />
       <window_info anchor="right" id="Flutter Outline" order="0" />
@@ -564,6 +613,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Maven Projects" order="10" />
+      <window_info anchor="right" x="0" y="0" width="370" height="850" id="Documentation" order="11" side_tool="true" weight="0.32967034" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -576,19 +626,28 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Add &quot;The Water of New York City&quot; and &quot;Timing Array List&quot;" />
     <MESSAGE value="Add &quot;The Water of New York City&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add &quot;The Water of New York City&quot;" />
+    <MESSAGE value="Updates to Timing Array List&#10;&#10;Co-authored-by: c20pc &lt;c20pc@users.noreply.github.com&gt;&#10;Co-authored-by: c20ae &lt;c20ae@users.noreply.github.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates to Timing Array List&#10;&#10;Co-authored-by: c20pc &lt;c20pc@users.noreply.github.com&gt;&#10;Co-authored-by: c20ae &lt;c20ae@users.noreply.github.com&gt;" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>n.getName().equals(&quot;hannah&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>n.getName().equals(&quot;Hannah&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Test.java" />
     <entry file="file://$PROJECT_DIR$/tests/TheWaterOfNewYorkCity/BinarySearchTreeTest.java" />
-    <entry file="file://$USER_HOME$/Downloads/NYC_Free_Public_WiFi_03292017(1).csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="30" column="336" lean-forward="true" selection-start-line="30" selection-start-column="336" selection-end-line="30" selection-end-column="336" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/NYC_Free_Public_WiFi_03292017(1).csv" />
     <entry file="file://$PROJECT_DIR$/src/TheWaterOfNewYorkCity/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -641,12 +700,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/TheWaterOfNewYorkCity/nycfreepublicwifi.csv">
+      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/TheWaterOfNewYorkCity/DoublyLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -662,13 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TheWaterOfNewYorkCity/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TheWaterOfNewYorkCity/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
@@ -679,109 +731,167 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="652" selection-start-line="652" selection-end-line="652" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/TestObjecty.java" />
-    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/AddTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/GetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/MaximumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/MinimumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/RemoveTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/ReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="96">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/ShuffleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="64">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/GetAllTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/SortTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/GetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/RemoveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/AddTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/MinimumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Tests/MaximumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TheWaterOfNewYorkCity/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="33" column="11" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/BabyNames/babynames.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="csv-text-editor">
         <state relative-caret-position="192">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="45" column="42" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BabyNames/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="32">
+            <caret line="2" column="77" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BabyNames/AlphebeticalNameSearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
+          <folding>
+            <element signature="e#3305#3306#0" expanded="true" />
+            <element signature="e#3340#3341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BabyNames/NameComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BabyNames/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <marker date="1548706038449" expanded="true" signature="1829:2143" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BabyNames/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ICA/TimingArrayList/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/BabyNames/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        <state relative-caret-position="480">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#1129#0" expanded="true" />
           </folding>
         </state>
       </provider>

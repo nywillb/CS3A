@@ -9,6 +9,7 @@ public class Main {
         Test[] tests = {
                 new AddTest(),
                 new GetTest(),
+                new GetAllTest(),
                 new MaximumTest(),
                 new MinimumTest(),
                 new ShuffleTest(),
